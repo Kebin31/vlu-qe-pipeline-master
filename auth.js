@@ -11,7 +11,7 @@ function login(username, password) {
     }
     
     // Luồng chính (Happy path): Đăng nhập đúng
-    if (username === 'admin' && password === '123') {
+    if (username === 'admin' && password === '9999') {
         return true;
     }
     
