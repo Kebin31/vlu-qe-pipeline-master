@@ -1,3 +1,4 @@
+// Thử nghiệm tạo nhánh mới và sửa code
 function login(username, password) {
     // Xử lý ngoại lệ: Tài khoản bị khóa
     if (username === 'locked_user') {
