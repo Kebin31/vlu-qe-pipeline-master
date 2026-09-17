@@ -34,4 +34,3 @@ jobs:
         run: npm install
       - name: Run Quality Gate 2 - Automated Regression Test
         run: npm run test:regression
-# Cap nhat lai file CI
